@@ -1,0 +1,4 @@
+Django~=4.2.1
+gunicorn
+pytest-django
+pytest~=7.3.1
